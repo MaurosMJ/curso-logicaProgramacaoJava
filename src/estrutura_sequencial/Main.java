@@ -43,7 +43,7 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		str.append("US decimal point: " + String.format("%.3f", measure));
 		System.out.println(str.toString());
-		
+
 	}
 
 	public static void ex2() {
@@ -65,7 +65,9 @@ public class Main {
 		// URI - Problem 1001 - Solution
 		// Problema 1001 - Extremamente Básico
 
+		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		int x = a + b;
@@ -78,7 +80,9 @@ public class Main {
 		// URI - Problem 1002 - Solution
 		// Problema 1002 - Área do Círculo
 
+		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		double r = sc.nextDouble();
 		double area = Math.PI * Math.pow(r, 2);
 		System.out.println("A=" + String.format("%.4f", area));
@@ -89,7 +93,9 @@ public class Main {
 		// URI - Problem 1003 - Solution
 		// Problema 1003 - Soma Simples
 
+		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		int sum = a + b;
@@ -101,7 +107,9 @@ public class Main {
 		// URI - Problem 1004 - Solution
 		// Problema 1004 - Produto Simples
 
+		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		int prod = a * b;
@@ -115,6 +123,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		double a = sc.nextDouble();
 		double b = sc.nextDouble();
 		double media = (a + b) / 2.0;
@@ -128,6 +137,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		double a = sc.nextDouble();
 		double b = sc.nextDouble();
 		double c = sc.nextDouble();
@@ -142,6 +152,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		int c = sc.nextInt();
@@ -157,6 +168,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		int num = sc.nextInt();
 		int workHours = sc.nextInt();
 		double salHour = sc.nextDouble();
@@ -172,6 +184,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		String name = sc.next();
 		double baseSalary = sc.nextDouble();
 		double sales = sc.nextDouble();
@@ -186,6 +199,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		int id1 = sc.nextInt();
 		int a1 = sc.nextInt();
 		double b1 = sc.nextDouble();
@@ -205,6 +219,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		double raio = sc.nextDouble();
 		double volume = (4f / 3f) * Math.PI * Math.pow(raio, 3f);
 		System.out.println("VOLUME = " + String.format("%.2f", volume));
@@ -217,6 +232,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		double a = sc.nextDouble();
 		double b = sc.nextDouble();
 		double c = sc.nextDouble();
@@ -241,6 +257,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		int higher = 0;
 		int count = 0;
 		int a = 0;
@@ -261,6 +278,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		int distInKm = sc.nextInt();
 		double liters = sc.nextDouble();
 		double carLitersPerKm = distInKm / liters;
@@ -275,6 +293,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		double xa = sc.nextDouble();
 		double ya = sc.nextDouble();
 		double xb = sc.nextDouble();
@@ -291,6 +310,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		int in = sc.nextInt();
 		int result = (in * 60) / 30;
 		System.out.println(result + " minutos");
@@ -351,6 +371,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		int in = sc.nextInt();
 
 		int cem = in / 100;
@@ -377,6 +398,7 @@ public class Main {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+
 		int in = sc.nextInt();
 
 		int ano = in / 365;
@@ -435,10 +457,10 @@ public class Main {
 	}
 
 	public static void ex25() {
-		
+
 		// URI - Problem 1061 - Solution
-		//Problema 1061 - Tempo de um Evento
-		
+		// Problema 1061 - Tempo de um Evento
+
 		Scanner sc = new Scanner(System.in);
 
 		sc.next();
