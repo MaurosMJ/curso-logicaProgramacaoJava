@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		ex29();
+		ex48();
 	}
 
 	public static void ex1() {
