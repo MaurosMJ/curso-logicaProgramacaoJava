@@ -163,4 +163,4 @@ Checklist:
 * Methods created: ex1, ex2, ex3, ex4, ex5, ex6, ex7, ex8, ex9.
 
 ## Credits:
-This repository is maintained by [MaurosMJ](https://github.com/MaurosMJ). The exercises are based on the 'Java First Steps: Programming Logic and Algorithms' course, with problems from URI Online Judge.
+This repository is maintained by [MaurosMJ](https://github.com/MaurosMJ). The exercises are based on the 'Java COMPLETO Programação Orientada a Objetos + Projetos' course.
