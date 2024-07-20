@@ -1,4 +1,4 @@
-# Curso de lógica de programação em Java
+# Java Programming Logic Course
 
 ###### @Author: MaurosMJ
 <div style="text-align:center;">
@@ -134,33 +134,33 @@ Course Link: [Link](https://www.udemy.com/course/java-curso-logica-de-programaca
 
 ##### Worknote #1 - feat: Sequential structure, all exercises 1 to 25
 Commit hash: [ef57e57efb7b1819105ee6139544bcc282e46e4d](https://github.com/MaurosMJ/curso-logicaProgramacaoJava/commit/ef57e57efb7b1819105ee6139544bcc282e46e4d)  
-Checklist:
-* Classes created: Main, StrUtil.
-* Methods created: ex1, ex2, ex3, ex4, ex5, ex6, ex7, ex8, ex9, ex10, ex11, ex12, ex13, ex14, ex15, ex16, ex17, ex18, ex19, ex20, ex21, ex22, ex23, ex24, ex25.
+**Checklist:**
+* **Classes created:** `Main`, `StrUtil`
+* **Methods created:** `ex1`, `ex2`, `ex3`, `ex4`, `ex5`, `ex6`, `ex7`, `ex8`, `ex9`, `ex10`, `ex11`, `ex12`, `ex13`, `ex14`, `ex15`, `ex16`, `ex17`, `ex18`, `ex19`, `ex20`, `ex21`, `ex22`, `ex23`, `ex24`, `ex25`
 
 ##### Worknote #2 - feat: Conditional structure
 Commit hash: [70ebcfc637d97211338e12a9d075c630bd417f58](https://github.com/MaurosMJ/curso-logicaProgramacaoJava/commit/70ebcfc637d97211338e12a9d075c630bd417f58)  
-Checklist:
-* Classes created: Main.
-* Methods created: ex1, ex2, ex3, ex4, ex5, ex6, ex7, ex8, ex9, ex10, ex11, ex12, ex13, ex14, ex15, ex16, ex17.
+**Checklist:**
+* **Classes created:** `Main`
+* **Methods created:** `ex1`, `ex2`, `ex3`, `ex4`, `ex5`, `ex6`, `ex7`, `ex8`, `ex9`, `ex10`, `ex11`, `ex12`, `ex13`, `ex14`, `ex15`, `ex16`, `ex17`
 
 ##### Worknote #3 - feat: Created Repetitive structure exercises
 Commit hash: [9671a185614cebd4fdb6c35e881f775dc21336fe](https://github.com/MaurosMJ/curso-logicaProgramacaoJava/commit/9671a185614cebd4fdb6c35e881f775dc21336fe)  
-Checklist:
-* Classes created: Main.
-* Methods created: ex1, ex2, ex3, ex4, ex5, ex6, ex7, ex8, ex9, ex10, ex11, ex12, ex13, ex14, ex15, ex16, ex17, ex18, ex19, ex20, ex21, ex22, ex23, ex24, ex25, ex26, ex27, ex28, ex29, ex30.
+**Checklist:**
+* **Classes created:** `Main`
+* **Methods created:** `ex1`, `ex2`, `ex3`, `ex4`, `ex5`, `ex6`, `ex7`, `ex8`, `ex9`, `ex10`, `ex11`, `ex12`, `ex13`, `ex14`, `ex15`, `ex16`, `ex17`, `ex18`, `ex19`, `ex20`, `ex21`, `ex22`, `ex23`, `ex24`, `ex25`, `ex26`, `ex27`, `ex28`, `ex29`, `ex30`
 
-##### Worknote #4 - feat: created Array Section, all exercises 1 to 12
+##### Worknote #4 - feat: Created Array Section, all exercises 1 to 12
 Commit hash: [4b631c68b9d48a1660c4694e561cd6f9ec3eab45](https://github.com/MaurosMJ/curso-logicaProgramacaoJava/commit/4b631c68b9d48a1660c4694e561cd6f9ec3eab45)  
-Checklist:
-* Classes created: Main.
-* Methods created: ex1, ex2, ex3, ex4, ex5, ex6, ex7, ex8, ex9, ex10, ex11, ex12.
+**Checklist:**
+* **Classes created:** `Main`
+* **Methods created:** `ex1`, `ex2`, `ex3`, `ex4`, `ex5`, `ex6`, `ex7`, `ex8`, `ex9`, `ex10`, `ex11`, `ex12`
 
-##### Worknote #5 - feat: created multidimensional array section, all exercises 1 to 9
+##### Worknote #5 - feat: Created multidimensional array section, all exercises 1 to 9
 Commit hash: [475a2636890162fa490f750f2f72b2b5fa7db0ee](https://github.com/MaurosMJ/curso-logicaProgramacaoJava/commit/475a2636890162fa490f750f2f72b2b5fa7db0ee)  
-Checklist:
-* Classes created: Main.
-* Methods created: ex1, ex2, ex3, ex4, ex5, ex6, ex7, ex8, ex9.
+**Checklist:**
+* **Classes created:** `Main`
+* **Methods created:** `ex1`, `ex2`, `ex3`, `ex4`, `ex5`, `ex6`, `ex7`, `ex8`, `ex9`
 
 ## Credits:
 This repository is maintained by [MaurosMJ](https://github.com/MaurosMJ). The exercises are based on the 'Java First Steps: Programming Logic and Algorithms' course, with problems from URI Online Judge.
